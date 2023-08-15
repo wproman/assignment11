@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Getting a Started with Next.js",
+      "content": "Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations. Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration. Whether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.",
+      "date": "2023-08-15"
+    },
+    {
+      "id": 2,
+      "title": "Advanced React Techniques",
+      "content": "React lets you build user interfaces out of individual pieces called components. Create your own React components like Thumbnail, LikeButton, and Video. Then combine them into entire screens, pages, and apps..",
+      "date": "2023-08-16"
+    },
+    {
+      "id": 3,
+      "title": "CSS-in-JS: Styling in React Applications",
+      "content": "CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.",
+      "date": "2023-08-17"
+    }
+  ]
+  
